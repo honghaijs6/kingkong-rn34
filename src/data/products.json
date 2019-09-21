@@ -1,0 +1,28 @@
+{
+
+  "milktea":[
+    { "id":0,"code":"black","name":"Black Milk Tea","photo":"https://static.vietnammm.com/images/restaurants/vn/NQ01R1R/products/mon-sua-tuoi-tran-chau-duong-den.png","price":"11" },
+    { "id":1,"code":"green","name":"Green Milk Tea","photo":"https://gimmedelicious.com/wp-content/uploads/2018/03/Iced-Matcha-Latte5.jpg","price":"12" },
+    { "id":2,"code":"jasmin","name":"Jasmin Milk Tea","photo":"https://sc01.alicdn.com/kf/HTB18OpVFVXXXXbSXXXXq6xXFXXXY/200250275/HTB18OpVFVXXXXbSXXXXq6xXFXXXY.jpg","price":"14" },
+    { "id":3,"code":"oolong","name":"Oolong Milk Tea","photo":"http://meetfresh.vn/wp-content/uploads/2015/06/boba-Oo-Long-Fresh-milk-tea.png","price":"14" },
+  ],
+  "juice":[
+
+  ],
+  "fruit":[
+
+  ],
+  "slushy":[
+
+  ],
+  "special":[
+
+  ],
+  "signature":[
+
+  ],
+  "smoothy":[
+
+  ]
+
+}

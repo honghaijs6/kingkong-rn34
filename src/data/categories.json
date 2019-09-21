@@ -1,0 +1,45 @@
+[
+  {
+    "id":"1",
+    "code":"milktea",
+    "name":"MILK TEA",
+    "uri":"https://firebasestorage.googleapis.com/v0/b/test-fe1a0.appspot.com/o/coffeeshop%2Fmilktea.jpg?alt=media&token=60790648-4f68-4d8c-b5bb-841964487fe3"
+  },
+  {
+    "id":2,
+    "code":"juice",
+    "name":"HEALTHY JUICES BLEND",
+    "uri":"https://firebasestorage.googleapis.com/v0/b/test-fe1a0.appspot.com/o/coffeeshop%2Fjuicing.jpg?alt=media&token=c8dd55f0-8f13-4553-9b3b-501df87c0a5b"
+  },
+  {
+    "id":"3",
+    "code":"fruit",
+    "name":"TROPICAL FRUITS TEA",
+    "uri":"https://firebasestorage.googleapis.com/v0/b/test-fe1a0.appspot.com/o/coffeeshop%2Ffruitstea.jpg?alt=media&token=eb0ca2d9-cb60-49ca-a355-0b54fcad5e4c"
+  },
+  {
+    "id":"4",
+    "code":"slushy",
+    "name":"SLUSHY",
+    "uri":"https://firebasestorage.googleapis.com/v0/b/test-fe1a0.appspot.com/o/coffeeshop%2Fslushy.jpg?alt=media&token=95ff9bfe-e4e1-4ff6-8618-00f808050c7a"
+  },
+  {
+    "id":"5",
+    "code":"special",
+    "name":"SPECIAL DRINKS",
+    "uri":"https://firebasestorage.googleapis.com/v0/b/test-fe1a0.appspot.com/o/coffeeshop%2Fspecial.jpg?alt=media&token=1ba5b986-877b-4625-82da-20cd9e5f0ce3"
+  },
+  {
+    "id":"6",
+    "code":"signature",
+    "name":"SIGNATURE",
+    "uri":"https://firebasestorage.googleapis.com/v0/b/test-fe1a0.appspot.com/o/coffeeshop%2Fsignature.jpg?alt=media&token=31788ee5-4737-4c3c-b057-10d3b3aa6d98"
+  },
+  {
+    "id":"7",
+    "code":"smoothy",
+    "name":"ENERGY SMOOTHIE",
+    "uri":"https://firebasestorage.googleapis.com/v0/b/test-fe1a0.appspot.com/o/coffeeshop%2Fsmoothie.jpg?alt=media&token=aaed981a-316d-4347-9bc6-ed7857c9cb51"
+  }
+
+]

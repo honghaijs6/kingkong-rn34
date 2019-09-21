@@ -1,0 +1,30 @@
+[
+  {
+    "id":"0",
+    "code":"new",
+    "content":[
+      "Get 01 free when you reached first 25 point"
+    ]
+  },
+  {
+    "id":"1",
+    "code":"gold",
+    "content":[
+      "Get 01 drinks free when you reach rank up",
+      "Get 01 cake free on your birthday",
+      "For each 50 point you get 01 drinks free"
+    ]
+  },
+  {
+    "id":"2",
+    "code":"diamond",
+    "content":[
+      "Get 01 drinks free when you reach rank up",
+      "Get 01 cake free on your birthday",
+      "For each 50 point you get 01 drinks free",
+      "For each 100 point you get 01 cake free",
+
+    ]
+  },
+
+]

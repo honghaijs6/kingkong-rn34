@@ -1,0 +1,33 @@
+[
+  {
+    "id":0,
+    "city":"ATLANTA, GA",
+    "address":"2055 Beaver Ruin Rd Suite B Norcross, GA 30071"
+  },
+  {
+    "id":2,
+    "city":"BUFORD, GA",
+    "address":"1680 Mall Of Georgia Blvd Ste # 1725 Buford, GA 30519"
+  },
+  {
+    "id":3,
+    "city":"OAKWOOD, GA",
+    "address":"3885 Mundy Mill Rd Ste # 107 Oakwood, GA 30566"
+  },
+  {
+    "id":4,
+    "city":"ALPHARETTA, GA",
+    "address":"800 N. Main Street Ste # 110 Alpharetta, GA 30009"
+  },
+  {
+    "id":5,
+    "city":"Louisiana LA",
+    "address":"4005 Nicholson Drive Baton Rouge, LA 70808 "
+  },
+  {
+    "id":6,
+    "city":"Louisiana LA",
+    "address":"8342 Perkins Road Ste C Baton Rouge, LA 70810 "
+  }
+  
+]
