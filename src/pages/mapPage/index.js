@@ -14,9 +14,9 @@ import { View, Text,  SafeAreaView,  TouchableOpacity, Keyboard  } from 'react-n
 
 import MapView, { Marker, PROVIDER_GOOGLE,  } from 'react-native-maps';
 
-import {  Location } from 'expo';
-//import * as Location from 'expo';
-import * as Permissions from 'expo';
+//import {  Location } from 'expo';
+import * as Location from 'expo-location';
+import * as Permissions from 'expo-permissions';
 
 import Toast from 'react-native-easy-toast';
 

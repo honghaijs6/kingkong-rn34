@@ -17,11 +17,13 @@ const connectionConfig = {
   reconnectionDelay: 1000,
   reconnectionDelayMax : 5000,
   reconnectionAttempts: Infinity,
-  transports: ['websocket']
+  transports: ['websocket'],
+  pingTimeout: 30000,
+ pingInterval: 30000
 };
 const socket = io(server.host,connectionConfig);
 
-
+ 
 
 socket.on('connect',()=>{
 

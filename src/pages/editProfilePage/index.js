@@ -3,7 +3,10 @@ import { COFFEE_COLOR } from '../../config/const';
 import USER from '../../config/user';
 
 
-import { ImagePicker, Permissions } from 'expo';
+//import { ImagePicker } from 'expo';
+import  * as  Permissions from 'expo-permissions' ;
+import * as ImagePicker from 'expo-image-picker'
+
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 

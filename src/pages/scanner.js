@@ -1,6 +1,9 @@
 /* @flow */
 
-import { Camera, BarCodeScanner, Permissions } from 'expo';
+
+import * as Permissions from 'expo-permissions';
+import { Camera } from 'expo-camera';
+import { BarCodeScanner } from 'expo-barcode-scanner';
 
 import React, { Component } from 'react';
 import {

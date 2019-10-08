@@ -1,6 +1,6 @@
 import { GREY_COLOR, COFFEE_COLOR } from '../../config/const' ;
 
-import { Asset } from 'expo';
+
 
 import React, { Component } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, Image } from 'react-native';
@@ -187,15 +187,6 @@ export default class OrderPage extends Component{
   }
 }
 
-function cacheImages(images) {
-  return images.map(image => {
-    if (typeof image === 'string') {
-      return Image.prefetch(image);
-    } else {
-      return Asset.fromModule(image).downloadAsync();
-    }
-  });
-}
 
 
 const s = StyleSheet.create({

@@ -1,8 +1,8 @@
-import {  Notifications,Constants } from 'expo';
-//import * as Permissions from 'expo' ; 
- 
-import Permissions from 'expo-permissions';
+import {  Notifications } from 'expo';
 
+ 
+import * as Permissions from 'expo-permissions';
+import Constants from 'expo-constants';
 
 
 
